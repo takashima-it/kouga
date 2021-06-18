@@ -1,1 +1,2 @@
 print('konganinnja')
+print('baka!')
